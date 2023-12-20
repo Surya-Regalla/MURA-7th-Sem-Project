@@ -1,1 +1,1 @@
-Classifying the given radiograph image as normal or abnormal using siamese network and various loss functions.
+This project is about classifying a given radiograph image as normal or abnormal using siamese network and various loss functions like triplet loss and focal triplet loss. CLAHE preprocessing technique is used for this model which enhances the contrast of the images, and it is compared with model without using CLAHE. Smooth GRAD-CAM which is an explanatory AI has been given as feature for representing where the abnormality in the radiograph is.
